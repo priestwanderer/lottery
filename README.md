@@ -1,4 +1,4 @@
-# SAS-Web
+# lottery-Web
 
 前端
 
@@ -83,7 +83,7 @@
     pnpm build
     ```
 
-# SAS-Server
+# lottery-Server
 
 see [midway docs][midway] for more detail.
 
